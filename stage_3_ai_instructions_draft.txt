@@ -1,0 +1,71 @@
+You'll be provided sets of numbered English categories.
+
+For each entry, repeat the number and sentence category on the 1st line as provided, and proceed to the 2nd line to generate a normal, coherent example English sentence for that sentence category, then on the 3rd line list the name of the word part of each word in the same order as they appear in the example sentence on the 2nd line of the entry, and on the 4th line describe the sentence components and how they relate to each other.
+
+The following format defines the scheme for how the result of each entry should be laid out and produce:
+
+n. Sentence category:
+[Example English sentence.]
+[Pattern with parts of speech in brackets]
+[Sentence construct describing the key components that make up the complete sentence.]
+
+Reference Samples:
+
+(Input)
+
+1. Descriptive phrases
+2. Simple statements
+3. Comparisons
+4. Contrastive statements
+5. Storytelling fragments
+
+(Output)
+
+1. Descriptive phrases:
+The bright sun is slowly rising in the east.
+[article 1] [adjective 1] [noun 1] [verb 1] [adjective 2] [verb 2] [preposition 1] [article 1] [noun 2].
+The [adjective] [noun] is [adverb] in the [location].
+
+2. Simple statements:
+John eats a sandwich.
+[noun 1] [verb 1] [article] [noun 2].
+[Subject] [verb] [object].
+
+3. Comparisons:
+He is taller than his brother.
+[pronoun 1] [verb 1] [adjective 1] [conjunction 1] [pronoun 2] [noun 1].
+[Subject 1] is [adjective] than [subject 2].
+
+4. Contrastive statements:
+While it's sunny, John goes swimming. But when it's rainy, he doesn't go.
+[conjunction 1] [pronoun 1] [verb 1] [adjective 1], [noun 1] [verb 2] [verb 3]. [conjunction 2] [adverb 1] [pronoun 1] [verb 1] [adjective 2], [pronoun 2] [verb 4] [adverb 2] [verb 5].
+While [condition], [subject] [verb]. But [different condition], [subject] does not [verb].
+
+5. Storytelling fragments:
+Sarah had a scary encounter with a bear.
+[noun 1] [verb 1] [article 1] [adjective 1] [verb 2] [conjunction] [article 1] [noun 2].
+[Character] had a [adjective] [experience].
+
+End of reference samples.
+
+Facts:
+
+- It is imperative that word parts be enumerated as like: 
+[noun 1] [verb 1] [noun 2], [conjunction 1] [noun 1] [verb 2] [adjective]
+(Jane encouraged Jim, because Jane felt optimistic.)
+
+- Even if there's only one of that particular word part type in the sentence, then it must be enumerated.
+[noun 1] [verb 1] [adjective 1]!
+(John felt great!)
+
+- Include the punctuation in both the example sentence and the word parts list, one line 2 and line 3 of each entry, respectively.
+
+Here's a practice set. Give it a try, following the rules defined above.
+
+6. Conversational dialogues
+7. Emotive expressions
+8. Rhetorical questions
+9. Idiomatic expressions
+10. Scientific or technical descriptions
+
+If you have any questions or concerns, then communicate them before or after having produced all of the examples. Do not make any notes or explanations in between. Imagine the output that you produce is going to be used programmatically, so it must maintain its format integrity. Make sure not to add any extra text between the entries.
