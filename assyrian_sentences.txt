@@ -1,0 +1,338 @@
+1. Descriptive phrase:
+ܫܸܡܫܵܐ ܒܲܗܪܵܢܬܵܐ ܒܕܢܵܚܵܐ ܒܸܡܕܢܵܚܵܐ ܝܠܵܗܿ
+(NaN)
+NaN
+(NaN)
+The bright sun is slowly rising in the east
+NaN
+[auxiliary verb] [location] [adverb] [adjective] [noun] 
+[article] [adjective] [noun] [auxiliary verb] [adverb] [verb] [preposition] [article] [location]
+Natural description of dawn phenomenon
+
+2. Simple statement:
+ܝܘܿܚܲܢܵܢ ܚܕܵܐ ܣܲܢܕܘܼܝܫ ܒܸܐܟ݂ܵܠܵܐ ܝܠܹܗ
+(NaN)
+NaN
+(NaN)
+John eats a sandwich
+NaN
+[auxiliary] [verb] [object] [article] [subject] 
+[subject] [verb] [article] [object]
+Basic action statement with direct object
+
+3. Comparison:
+ܝܵܪܝܟ݂ܵܐ ܝܠܹܗ ܡ̣ܢ ܐܲܚܘܿܢܹܗ
+(m.)
+ܝܵܪܝܟ݂ܬܵܐ ܝܠܵܗܿ ܡ̣ܢ ܐܲܚܘܿܢܵܗܿ
+(f.)
+He is taller than his brother
+She is taller than her brother
+[noun] [preposition] [auxiliary] [adjective] 
+[pronoun] [auxiliary verb] [adjective] [preposition] [possessive pronoun] [noun]
+Comparative statement of physical attribute
+
+4. Contrastive statement:
+ܟܲܕ ܫܲܡܫܵܢܬܵܐ ܝܠܵܗܿ، ܝܘܿܚܲܢܵܢ ܟܹܐ ܐܵܙܹܠ ܣܵܚܵܐ. ܐܝܼܢܵܐ ܟܲܕ ܡܸܛܪܵܐ ܝܠܵܗ، ܠܹܐ ܐܵܙܹܠ ܣܵܚܵܐ
+(NaN)
+NaN
+(NaN)
+While it's sunny, John goes swimming. But when it's rainy, he doesn't go
+NaN
+ [verb] [verb] [negative] ,[auxiliary] [noun] [conjunction] [conjunction] .[verb] [verb] [present imperfect] [subject] ,[auxiliary] [adjective] [conjunction]
+[conjunction] [pronoun] [auxiliary verb] [adjective], [subject] [verb] [verb]. [conjunction] [conjunction] [pronoun] [auxiliary verb] [adjective], [pronoun] [negative] [verb]
+Contrasting conditional behaviors
+
+5. Storytelling fragment:
+ܣܵܪܵܐ ܚܵܕܐ݇ ܦܓܵܥܬܵܐ ܡܲܙܕܹܥܵܢܬܵܐ ܡܼܢ ܚܵܕܐ݇ ܕܸܒܵܐ ܐܝܼܬ ܗ݇ܘܵܐ ܠܵܗܿ
+(NaN)
+Sarah had a scary encounter with a bear
+NaN
+[auxiliary] [verb] [verb] [noun] [article] [preposition] [adjective] [noun] [article] [subject]
+[subject] [verb] [article] [adjective] [noun] [preposition] [article] [noun]
+Narrative description of past event
+
+6. Conversational dialogue:
+ܝܘܿܚܲܢܵܢ، ܡܘܿܕܝܼ ܚܵܫܒܸܬ ܒܘܼܕ ܦܸܠܡܵܐ ܚܲܕܬܵܐ؟
+(m.)
+ܝܘܿܚܢܝܼܢܬܵܐ، ܡܘܿܕܝܼ ܚܵܫܒܲܬ ܒܘܼܕ ܦܸܠܡܵܐ ܚܲܕܬܵܐ؟
+(f.)
+John, what do you think about the new movie?
+Jane, what do you think about the new movie?
+[adjective] [noun] [preposition] [verb] [interrogative] ,[vocative]
+[noun], [interrogative pronoun] [auxiliary verb] [pronoun] [verb] [preposition] [article] [adjective] [noun]
+Direct opinion solicitation
+
+7. Emotive expression:
+ܟܪܝܼܒܵܐ ܝܘܸܢ ܣܵܒܵܒ ܡܲܦܸܬ ܠܝܼ ܛܲܝܵܣܬܝܼ
+(m.)
+ܟܪܝܼܒܬܵܐ ܝܘܲܢ ܣܵܒܵܒ ܡܲܦܸܬ ܠܝܼ ܛܲܝܵܣܬܝܼ
+(f.)
+I'm angry because I missed my flight
+NaN
+[noun] [preposition-pronoun] [verb] [conjunction] [auxiliary] [adjective] 
+[pronoun] [auxiliary verb] [adjective] [conjunction] [pronoun] [verb] [possessive pronoun] [noun]
+Emotional state with causation
+
+8. Rhetorical question:
+ܡܘܿܕܝܼ ܝܠܵܗܿ ܚܘܼܒܵܐ، ܐܸܢ ܠܵܐ ܚܲܕ ܪܸܓ̰ܫܵܐ ܕܡܲܬܒܸܪ ܠܲܢ؟
+(NaN)
+NaN
+(NaN)
+What is love, if not a feeling that makes us vulnerable?
+NaN
+[object-pronoun] [verb] [relative pronoun] [noun] [article] [negative] [conjunction] ,[noun] [auxiliary] [interrogative] 
+[interrogative pronoun] [auxiliary verb] [noun] [punctuation] [conjunction] [negative] [article] [noun] [relative pronoun] [verb] [pronoun] [adjective]
+Philosophical contemplation
+
+9. Idiomatic expression:
+ܒܠܝܼܓܵܐ ܝܠܹܗ ܐܲܝܟ݂ ܕܲܒܵܫܵܐ
+(m.)
+ܒܠܝܼܓܬܵܐ ܝܠܵܗܿ ܐܲܝܟ݂ ܕܲܒܵܫܵܐ
+(f.)
+He's as busy as a bee
+She's as busy as a bee
+[noun] [adverb] [auxiliary] [adjective]
+[pronoun] [auxiliary verb] [adjective] [preposition] [article] [noun]
+Traditional simile expressing industriousness
+
+10. Scientific description:
+ܦܪܵܣܡܲܠܵܠܵܐ ܚܲܕܬܵܐ ܐܝܼܬ ܠܵܗ ܐܲܡܘܼܪܵܐ ܨܲܝܵܪܘܼܬ݂ܵܐ ܥܸܠܵܝܬܵܐ ܕܟܹܐ ܫܵܩܠܵܐ ܨܘܼܪ̈ܵܬܹܐ ܫܲܦܝܼܪܹ̈ܐ
+(NaN)
+NaN
+(NaN)
+The new smartphone has a high-quality camera that allows it to take stunning photos
+NaN
+[adjective] [noun] [verb] [habitual] [relative] [adjective] [noun] [preposition-pronoun] [existential] [adjective] [noun]
+[article] [adjective] [noun] [verb] [article] [adjective] [noun] [relative pronoun] [verb] [pronoun] [preposition] [verb] [adjective] [noun]
+Technical capability description
+
+10.b. Scientific description:
+ܦܪܵܣܡܲܠܵܠܵܐ ܚܲܕܬܵܐ ܐܝܼܬ ܠܵܗ ܐܲܡܘܼܪܵܐ ܨܲܝܵܪܘܼܬ݂ܵܐ ܥܸܠܵܝܬܵܐ ܕܟܹܐ ܓܵܪܫܵܐ ܨܘܼܪ̈ܵܬܹܐ ܫܲܦܝܼܪܹ̈ܐ
+(NaN)
+NaN
+(NaN)
+The new smartphone has a high-quality camera that allows it to take stunning photos
+NaN
+[adjective] [noun] [verb] [habitual] [relative] [adjective] [noun] [preposition-pronoun] [existential] [adjective] [noun]
+[article] [adjective] [noun] [verb] [article] [adjective] [noun] [relative pronoun] [verb] [pronoun] [preposition] [verb] [adjective] [noun]
+Technical capability description
+
+11. Cause-and-effect:
+ܚܸܣܪܵܢܵܐ ܕܫܸܢܬܵܐ ܟܹܐ ܡܲܝܬܹܐ ܡܚܵܝܠܘܼܬܵܐ
+(NaN)
+NaN
+(NaN)
+Lack of sleep causes fatigue
+NaN
+[noun] [verb] [present imperfect] [preposition] [noun]
+[noun] [preposition] [noun] [verb] [noun]
+Direct causation statement
+
+12. Descriptive with multiple nouns:
+ܩܲܨܪܵܐ ܫܲܦܝܼܪܵܐ ܐܝܼܬ ܠܹܗ ܚܲܢܕܲܩܵܐ ܕܚܕܝܼܪܵܐ ܝܠܹܗ ܒܝܲܪܩܘܼܬܵܐ ܥܲܒܝܼܬܵܐ
+(NaN)
+NaN
+(NaN)
+The beautiful castle has a moat that is surrounded by lush greenery
+NaN
+[adjective] [noun] [preposition] [auxiliary] [adjective] [noun] [relative] [existential] [adjective] [noun]
+[article] [adjective] [noun] [verb] [article] [noun] [relative pronoun] [auxiliary verb] [verb] [preposition] [adjective] [noun]
+Complex descriptive statement with multiple features
+
+13. Comparisons with multiple nouns:
+ܪ̈ܵܕܝܼܬܵܐ ܕܝܘܿܚܲܢܵܢ ܙܘܼܙܵܢܬܵܐ ܝܠܵܗܿ ܡ̣ܢ ܡܘܿܬܘܿܪ ܕܐܲܚܘܿܢܹܗ
+(m.)
+ܪ̈ܵܕܝܼܬܵܐ ܕܣܵܪܵܐ ܙܘܼܙܵܢܬܵܐ ܝܠܵܗܿ ܡ̣ܢ ܡܘܿܬܘܿܪ ܕܐܲܚܘܿܢܵܗܿ
+(f.)
+John's car is faster than his brother's motorcycle
+Sarah's car is faster than her brother's motorcycle
+[noun] [preposition] [noun] [auxiliary] [adjective] [possessive] [noun]
+[noun possessive] [noun] [auxiliary verb] [adjective] [preposition] [noun possessive] [noun]
+Comparative statement involving possessions
+
+14. Storytelling with action and reason:
+ܣܵܪܵܐ ܪܚܸܫܠܵܗܿ ܠܦܲܪܟܵܐ ܣܵܒܵܒ ܒܥܹܐ ܠܵܗܿ ܗܲܘܵܐ ܚܲܕܬܵܐ
+(NaN)
+NaN
+(NaN)
+Sarah walked to the park because she wanted some fresh air
+NaN
+[adjective] [noun] [auxiliary] [verb] [conjunction] [noun] [preposition] [verb] [noun]
+[subject] [verb] [preposition] [article] [noun] [conjunction] [pronoun] [verb] [article] [adjective] [noun]
+Narrative statement with motivation
+
+15. Emotive with multiple reasons:
+ܫܓ̰ܝܼܫܵܐ ܝܘܸܢ ܣܵܒܵܒ ܡܲܦܸܬ ܠܝܼ ܛܲܝܵܣܬܝܼ، ܘܐܘܼܦ ܣܵܒܵܒ ܐܘܼܪܚܵܐ ܝܲܪܝܼܟ݂ܬܵܐ ܝܼܗ݇ܘܵܐ
+(m.)
+ܫܓ̰ܝܼܫܬܵܐ ܝܘܲܢ ܣܵܒܵܒ ܡܲܦܸܬ ܠܝܼ ܛܲܝܵܣܬܝܼ، ܘܐܘܼܦ ܣܵܒܵܒ ܐܘܼܪܚܵܐ ܝܲܪܝܼܟ݂ܬܵܐ ܝܼܗ݇ܘܵܐ
+(f.)
+I'm frustrated because I missed my flight, but also because it was a long journey
+I'm frustrated because I missed my flight, but also because it was a long journey
+[verb] [adjective] [noun] [conjunction] [conjunction] ,[noun] [preposition-pronoun] [verb] [conjunction] [auxiliary] [adjective]
+[pronoun] [auxiliary verb] [adjective] [conjunction] [pronoun] [verb] [possessive pronoun] [noun] [conjunction] [conjunction] [conjunction] [pronoun] [verb] [article] [adjective] [noun]
+Complex emotional state with multiple causes
+
+16. Rhetorical with hypothetical:
+ܡܘܿܕܝܼ ܒܸܕ ܗܵܘܹܐ ܐܸܢ ܛܲܩܣܵܐ ܫܵܚܸܢ ܒܘܼܫ ܡ̣ܢ ܕܙܲܪ̈ܥܹܐ ܡܵܨܝܼ ܪܵܒܝܼ؟
+(NaN)
+NaN
+(NaN)
+What would happen if the weather became too hot for crops to grow?
+NaN
+[verb] [auxiliary verb] [noun] [conjunction] [adverb] [verb] [noun] [conjunction] [verb] [verb] [interrogative] 
+[interrogative pronoun] [auxiliary verb] [verb] [conjunction] [article] [noun] [verb] [adverb] [adjective] [preposition] [noun] [preposition] [verb]
+Hypothetical environmental concern
+
+17. Idiomatic with metaphor:
+ܩܲܫܝܵܐ ܝܠܹܗ ܐܲܝܟ݂ ܣܲܡܣܲܪܹ̈ܐ
+(m.)
+ܩܲܫܝܬܵܐ ܝܠܵܗܿ ܐܲܝܟ݂ ܣܲܡܣܲܪܹ̈ܐ
+(f.)
+He's as tough as nails
+She's as tough as nails
+[noun] [simile] [auxiliary] [adjective]
+[pronoun] [auxiliary verb] [adjective] [preposition] [noun]
+Traditional metaphorical comparison
+
+18. Descriptive with sensory:
+ܩܲܗܘܹܐ ܐܝܼܬ ܠܵܗܿ ܚܕܵܐ ܪܹܚܵܐ ܥܲܬܝܼܪܵܐ ܕܩܵܪܹܐ ܝܠܵܗܿ
+(NaN)
+NaN
+(NaN)
+The coffee has a rich aroma that is inviting
+NaN
+[verb] [adjective] [relative] [adjective] [noun] [article] [preposition-pronoun] [existential] [noun]
+[article] [noun] [verb] [article] [adjective] [noun] [relative pronoun] [auxiliary verb] [adjective]
+Sensory description with qualifying attribute
+
+19. Setting with character:
+ܡܕܝܼܢ݇ܬܵܐ ܝܠܵܗܿ ܐܲܝܟܵܐ ܕܣܵܪܵܐ ܦܵܝܫܵܐ ܚܵܙܝܵܐ ܚܲܒ݂ܪ̈ܵܬܵܗܿ ܣܵܒܵܒ ܚܲܝܬܵܐ ܘܡܲܒܣܝܼܡܲܢܬܵܐ ܝܠܵܗܿ
+(NaN)
+NaN
+(NaN)
+The city is where Sarah meets her friends because it's lively and fun
+NaN
+[auxiliary] [adjective] [conjunction] [adjective] [conjunction] [noun] [verb] [verb] [noun] [relative] [location] [auxiliary] [noun]
+[article] [noun] [auxiliary verb] [relative pronoun] [subject] [verb] [possessive pronoun] [noun] [conjunction] [pronoun] [auxiliary verb] [adjective] [conjunction] [adjective]
+Location-based narrative with motivation
+
+20. Dialogue with indirect speech:
+ܝܘܿܚܲܢܵܢ، ܐܲܝܟ݂ ܚܲܒ݂ܪܝܼ ܐܡܝܼܪܹܗ، 'ܚܲܝܘܼܬܵܐ ܡܠܝܼܬܵܐ ܝܠܵܐ ܒܝܼ ܕܡܝܼܪܘܼܬܵܐ'
+(m.)
+ܝܘܿܚܲܢܝܼܬܵܐ، ܐܲܝܟ݂ ܚܲܒ݂ܸܪܬܝܼ ܐܡܝܼܪܵܗܿ، 'ܚܲܝܘܼܬܵܐ ܡܠܝܼܬܵܐ ܝܠܵܐ ܒܝܼ ܕܡܝܼܪܘܼܬܵܐ'
+(f.)
+John, as my friend said, 'Life is full of surprises'
+Jane, as my friend said, 'Life is full of surprises'
+[noun] [preposition] [auxiliary] [verb] [noun] ,[verb] [noun] [adverb] ,[vocative]
+[noun] [punctuation] [preposition] [possessive pronoun] [noun] [verb] [punctuation] [noun] [auxiliary verb] [adjective] [preposition] [noun] [punctuation]
+Reported speech with philosophical content
+
+21. Emotive expressions with comparisons
+ܪܘܼܙܵܐ ܝܘܸܢ ܣܵܒܵܒ ܒܸܕܡܵܝܵܐ ܝܠܵܗܿ ܠܙܟ݂ܵܝܬܵܐ ܕܣܘܼܒܵܠܵܐ
+(m.)
+ܪܘܼܙܬܵܐ ܝܘܲܢ ܣܵܒܵܒ ܒܸܕܡܵܝܵܐ ܝܠܵܗܿ ܠܙܟ݂ܵܝܬܵܐ ܕܣܘܼܒܵܠܵܐ
+(f.)
+I'm excited because it's like winning the lottery
+NaN
+[noun] [preposition] [verb] [auxiliary] [adjective] [conjunction] [auxiliary] [adjective]
+[pronoun] [auxiliary] [adjective] [conjunction] [pronoun] [auxiliary] [verb] [article] [noun]
+Emotional state compared to fortunate event
+
+22. Descriptive sentences with abstract nouns
+ܚܘܼܒܵܐ ܡܘܼܕܥܸܢܵܐ ܝܠܹܗ ܒܩܲܒܵܠܬܵܐ ܕܠܵܐ ܕܬܲܢܘܵܝ
+(NaN)
+NaN
+(NaN)
+The love is characterized by unconditional acceptance
+NaN
+[adjective] [negative] [adjective] [auxiliary] [verb] [noun]
+[article] [noun] [auxiliary] [verb] [preposition] [adjective] [noun]
+Abstract concept defined by its qualities
+
+23. Storytelling fragments with conflicts and resolutions
+ܣܵܪܵܐ ܦܝܵܫܵܐ ܝܠܵܗܿ ܥܸܨܝܼܬܵܐ ܟܲܕ ܪ̈ܵܕܝܼܬܵܗܿ ܒܸܬܒܵܪܵܐ ܝܠܵܗܿ، ܐܝܼܢܵܐ ܟܹܐ ܒܥܵܝܵܐ ܓܵܢܵܗܿ ܬܲܪܨܵܐ ܠܵܗܿ
+(NaN)
+NaN
+(NaN)
+Sarah faces a problem when her car breaks down, but she resolves to fix it herself
+NaN
+[auxillary] [verb] [noun] [verb] [present imperfect] [conjunction] ,[auxiliary] [verb] [noun] [temporal] [adjective] [auxiliary] [verb] [noun]
+[noun] [verb] [article] [noun] [conjunction] [possessive] [noun] [verb] [adverb] [conjunction] [pronoun] [verb] [preposition] [verb] [pronoun] [reflexive]
+Narrative with problem and personal resolution
+
+24. Idiomatic expressions with allusions
+ܚܸܪܥܵܐ ܝܠܹܗ ܐܲܝܟ݂ ܬܲܥܠܵܐ ܓܵܘ ܩܠܘܼܒ݂ܝܵܐ ܕܬܲܪ̈ܢܵܓ݂ܘܼܠܝܵܬܹܐ
+(m.)
+ܚܸܪܥ݇ܬܵܐ ܝܠܵܗܿ ܐܲܝܟ݂ ܬܲܥܠܵܐ ܓܵܘ ܩܠܘܼܒ݂ܝܵܐ ܕܬܲܪ̈ܢܵܓ݂ܘܼܠܝܵܬܹܐ
+(f.)
+He's as sly as a fox in a henhouse
+She's as sly as a fox in a henhouse
+[noun] [genitive] [noun] [preposition] [noun] [auxiliary] [comparative] [adjective]
+[pronoun] [auxiliary] [adjective] [comparative] [article] [noun] [preposition] [article] [noun]
+Idiomatic comparison using animal characteristics
+
+25. Descriptive sentences with onomatopoeias
+ܢܘܼܪܵܢܝܼܬܵܐ ܒܸܦܩܵܥܵܐ ܝܠܵܗܿ ܒܝܼ ܩܵܠܵܐ ܕܒܘܿܡ ܪܵܒܵܐ
+(NaN)
+NaN
+(NaN)
+The firework explodes with a loud BOOM sound
+NaN
+[adjective] [onomatopoeia] [noun] [preposition] [auxiliary] [verb] [noun]
+[article] [noun] [verb] [preposition] [article] [adjective] [onomatopoeia] [noun]
+Descriptive sentence with sound effect
+
+26. Storytelling fragments with character motivations
+ܣܵܪܵܐ ܟܹܐ ܟܵܬܒ݂ܵܐ ܚܕܵܐ ܐܸܓܲܪܬܵܐ ܣܵܒܵܒ ܒܸܥܵܝܵܐ ܝܠܵܗܿ ܕܗܵܕܪܵܐ ܫܵܪܝܵܐ ܥܸܡ ܚܵܬܵܗܿ
+(NaN)
+NaN
+(NaN)
+Sarah writes a letter because she wants to reconnect with her sister
+NaN
+[possessive] [preposition] [verb] [verb] [auxiliary] [conjunction] [noun] [article] [verb] [habitual] [noun]
+[noun] [verb] [article] [noun] [conjunction] [pronoun] [verb] [preposition] [verb] [preposition] [possessive] [noun]
+Action motivated by desire for family connection
+
+27. Emotive expressions with emotional intensity
+ܪܵܒܵܐ ܚܲܕܝܵܐ ܝܘܸܢ ܣܵܒܵܒ ܒܸܕܡܵܝܵܐ ܝܠܵܗܿ ܠܙܟ݂ܵܝܬܵܐ ܕܫܘܼܩܵܠܵܐ!
+(m.)
+ܪܵܒܵܐ ܚܲܕܝܬܵܐ ܝܘܲܢ ܣܵܒܵܒ ܒܸܕܡܵܝܵܐ ܝܠܵܗܿ ܠܙܟ݂ܵܝܬܵܐ ܕܫܘܼܩܵܠܵܐ!
+(f.)
+I'm ecstatic because it's like winning the lottery!
+NaN
+[noun] [preposition] [verb] [auxiliary] [adjective] [adverb] [adjective] [auxiliary]
+[pronoun] [auxiliary] [adjective] [conjunction] [pronoun] [auxiliary] [verb] [article] [noun]
+Intensified emotional expression with comparison
+
+28. Descriptive sentences with idiomatic phrases
+ܡܲܡܠܠܵܐ ܡܠܹܐ ܝܠܹܗ ܪ̈ܵܡܙܹܐ ܚܲܟܝܼܡܹ̈ܐ
+(NaN)
+NaN
+(NaN)
+The conversation is full of witty banter
+NaN
+[adjective] [noun] [adjective] [auxiliary] [noun]
+[article] [noun] [auxiliary] [adjective] [preposition] [adjective] [noun]
+Description using idiomatic expression
+
+29. Comparisons with degrees
+ܗܘܼܢܹܪܹ̈ܐ ܕܒܲܫܠܵܐ ܕܝܘܿܚܲܢܵܢ ܒܘܼܫ ܡܘܼܩܕܸܡܹܐ ܝܢܵܐ ܡ̣ܢ ܕܐܲܚܘܿܢܹܗ
+(NaN)
+NaN
+(NaN)
+John's cooking skills are more advanced than his brother's
+NaN
+[possessive] [noun] [preposition] [comparative] [noun] [genitive] [noun] [adjective] [auxiliary]
+[noun] [possessive] [verb] [noun] [auxiliary] [comparative] [adjective] [preposition] [possessive] [noun]
+Comparative statement of skill levels
+
+30. Storytelling fragments with plot twists
+ܣܵܪܵܐ ܒܸܓܠܵܝܵܐ ܝܠܵܗܿ ܕܚܲܒ݂ܸܪܬܵܗܿ ܡܵܪܵܙܵܢܝܼܬܵܐ ܝܠܵܗܿ
+(NaN)
+NaN
+(NaN)
+Sarah discovers that her best friend is actually a spy
+NaN
+[noun] [auxiliary] [adjective] [possessive] [noun] [verb] [auxiliary]
+[noun] [verb] [conjunction] [possessive] [adjective] [noun] [auxiliary] [adverb] [article] [noun]
+Narrative with unexpected revelation
